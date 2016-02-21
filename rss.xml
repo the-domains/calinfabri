@@ -4,8 +4,15 @@
         <description><![CDATA[Calin Fabri Blog]]></description>
         <link>https://thegrid.ai/calinfabri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 16:00:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 16:05:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/calinfabri/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title]]></title>
+            <description><![CDATA[<article><h1>Title</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/621eb63985ee667e8873f0a350d1d7d4ff5dbfe6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/calinfabri/title/index.html</link>
+            <guid isPermaLink="false">063a5e89-affc-4cc3-892c-b7a466217165</guid>
+            <pubDate>Sun, 21 Feb 2016 16:04:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19f59468-f754-4056-9b9f-9dececdd6d65.jpg">]]></description>
